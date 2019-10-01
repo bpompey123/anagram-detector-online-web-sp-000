@@ -5,5 +5,6 @@ class Anagram
     @name = word
   end
 
+  def 
 
 end
