@@ -3,7 +3,6 @@ class Anagram
 
   def initialize(word)
     @name = word
-    name
   end
 
 
